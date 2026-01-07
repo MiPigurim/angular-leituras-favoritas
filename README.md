@@ -1,4 +1,37 @@
-# Organo
+<h1 align="center"> Organo </h1>
+<h3 align="center"> Leituras favoritas </h3>
+
+<p align="center">
+Projeto desenvolvido no curso Angular 19: estruture componentes com signals e controle de fluxo.promovido pela plataforma de ensino Alura.
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>
+</p>
+
+<p align="center">
+  <img alt="Página inicial Organo" src="./public/preview.png">
+</p>
+
+<br>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Angular
+- Git e Github
+
+## 💻 Projeto
+
+Aplicação web desenvolvida para exibição e organização de livros por gênero literário, apresentando cada item em cards informativos com capa, título e autor, além de funcionalidade de favoritos.
+
+<p align="center">
+ Feito com ♥
+</p>
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.9.
 
