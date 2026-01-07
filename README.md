@@ -2,12 +2,13 @@
 <h3 align="center"> Leituras favoritas </h3>
 
 <p align="center">
-Projeto desenvolvido no curso Angular 19: estruture componentes com signals e controle de fluxo.promovido pela plataforma de ensino Alura.
+Projeto desenvolvido no curso Angular 19: estruture componentes com signals e controle de fluxo. Promovido pela plataforma de ensino Alura.
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -28,6 +29,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Aplicação web desenvolvida para exibição e organização de livros por gênero literário, apresentando cada item em cards informativos com capa, título e autor, além de funcionalidade de favoritos.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/design/Ke01sBEb2TlurHjRY5hzPi/Angular-Componentes-e-Templates-%7C-Organo--Community-?node-id=11105-2055&t=FHS06oeEhjCZ0dB6-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
 
 <p align="center">
  Feito com ♥
